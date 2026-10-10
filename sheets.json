@@ -1,0 +1,65 @@
+[
+  {
+    "code": "G-01",
+    "title": "Site planning",
+    "alt": "G-01: Site geometry \u00b7 Garage and stair arrangement; draft client review preview",
+    "discipline": "survey",
+    "src": "assets/review-sheet-0.webp?v=20261010"
+  },
+  {
+    "code": "A-01",
+    "title": "Site & perspective",
+    "alt": "A-01: Revit perspective \u00b7 Site development plan; draft client review preview",
+    "discipline": "architecture",
+    "src": "assets/review-sheet-1.webp?v=20261010"
+  },
+  {
+    "code": "A-02",
+    "title": "Floor plans & elevations",
+    "alt": "A-02: Ground and upper floors \u00b7 Elevations \u00b7 Stair; draft client review preview",
+    "discipline": "architecture",
+    "src": "assets/review-sheet-2.webp?v=20261010"
+  },
+  {
+    "code": "S-01",
+    "title": "Structural notes",
+    "alt": "S-01: Schedules \u00b7 Design criteria \u00b7 Coordination notes; draft client review preview",
+    "discipline": "structure",
+    "src": "assets/review-sheet-3.webp?v=20261010"
+  },
+  {
+    "code": "S-02",
+    "title": "Foundation & framing",
+    "alt": "S-02: Foundation \u00b7 Floor and roof framing \u00b7 Roof plan; draft client review preview",
+    "discipline": "structure",
+    "src": "assets/review-sheet-4.webp?v=20261010"
+  },
+  {
+    "code": "S-03",
+    "title": "Extension details",
+    "alt": "S-03: Frame \u00b7 Footing \u00b7 Baseplate \u00b7 Floor \u00b7 Stair \u00b7 Roof; draft client review preview",
+    "discipline": "structure",
+    "src": "assets/review-sheet-5.webp?v=20261010"
+  },
+  {
+    "code": "S-04",
+    "title": "Fence & gate details",
+    "alt": "S-04: RC posts \u00b7 CHB base \u00b7 Gates \u00b7 Wall footing; draft client review preview",
+    "discipline": "structure",
+    "src": "assets/review-sheet-6.webp?v=20261010"
+  },
+  {
+    "code": "E-01",
+    "title": "Lighting & power",
+    "alt": "E-01: Ground and upper layouts \u00b7 Riser \u00b7 Added loads; draft client review preview",
+    "discipline": "electrical",
+    "src": "assets/review-sheet-7.webp?v=20261010"
+  },
+  {
+    "code": "P-01",
+    "title": "Storm drainage",
+    "alt": "P-01: Roof and deck drainage \u00b7 Details \u00b7 Outlet schedule; draft client review preview",
+    "discipline": "plumbing",
+    "src": "assets/review-sheet-8.webp?v=20261010"
+  }
+]
